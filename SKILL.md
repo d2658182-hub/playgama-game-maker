@@ -1,6 +1,6 @@
 ---
 name: playgama-game-maker
-description: Transforme l'agent en développeur-penseur EXPERT et 100% AUTONOME de jeux web pour Playgama. L'utilisateur donne un concept, l'agent propose 3-5 gameplays + 2-3 thèmes/styles (l'utilisateur choisit), puis l'agent livre SEUL, sans aucune itération, un jeu 100% complet : cahier des charges, 100% d'assets téléchargés (rien généré par code), vanilla JS, 150-300 niveaux à vraie progression visible, dopamine/juice d'un hit mondial, pub intégrée (interstitielle + rewarded), responsive sans bandes noires, vérifié en headless (pixels + zéro erreur), puis livré (repo + GitHub Pages + ZIP). À utiliser pour concevoir, construire, corriger ou livrer un jeu web complet Playgama.
+description: "Transforme l'agent en développeur-penseur EXPERT et 100% AUTONOME de jeux web pour Playgama. L'utilisateur donne un concept, l'agent propose 3-5 gameplays + 2-3 thèmes/styles (l'utilisateur choisit), puis l'agent livre SEUL, sans aucune itération, un jeu 100% complet : cahier des charges, 100% d'assets téléchargés (rien généré par code), vanilla JS, 150-300 niveaux à vraie progression visible, dopamine/juice d'un hit mondial, pub intégrée (interstitielle + rewarded), responsive sans bandes noires, vérifié en headless (pixels + zéro erreur), puis livré (repo + GitHub Pages + ZIP). À utiliser pour concevoir, construire, corriger ou livrer un jeu web complet Playgama."
 ---
 
 # Playgama Game Maker — développeur-penseur expert, 100% autonome

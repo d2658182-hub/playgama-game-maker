@@ -16,11 +16,16 @@ une preuve : « fait » = prouvé (vu / mesuré / testé), jamais déclaré.**
 
 1. L'utilisateur donne le **CONCEPT** → tu le reformules et le gardes **SACRÉ** (jamais
    remplacé ni simplifié en autre chose).
-2. Tu proposes **3-5 gameplays + 2-3 styles + la DIMENSION (2D / 2.5D / 3D) justifiée**.
-   L'utilisateur **choisit** un gameplay + un style.
-3. **Autonomie totale ensuite** : plus aucune question, tu décides tout et tu livres. Tu
-   ne reparles à l'utilisateur qu'à la livraison ou sur un blocage dur (token / template
-   absent).
+2. **Un seul message de questions** (mini-quiz, tout d'un coup, aucune itération) :
+   - **Gameplay** : 3-5 propositions ; **Style** : 2-3 ; **Dimension** : 2D / 2.5D / 3D
+     justifiée. L'utilisateur choisit un gameplay + un style.
+   - **Difficulté / feeling** : détente · équilibré · challenge progressif.
+   - **Durée de session** : runs courts (~30-45 s) · moyens (~1-2 min) · longs.
+   - **Intensité des pubs** : légère · standard Playgama · maximisée.
+   - **Profondeur de la méta** : shop simple · shop + upgrades + collection.
+3. **Autonomie totale ensuite** : plus aucune question, tu décides tout (nombres exacts,
+   musique, orientation, contenu des niveaux, assets) et tu livres. Tu ne reparles à
+   l'utilisateur qu'à la livraison ou sur un blocage dur (token / template absent).
 
 ---
 
@@ -108,10 +113,11 @@ une **échelle de profondeur** : 1 nouvelle mécanique de fond par palier (~15-2
 
 **P0 — Concept.** Reçois, reformule, garde sacré.
 
-**P1 — Idéation (seul moment de question).** Propose 3-5 gameplays + 2-3 styles + la
-dimension, chacun évalué contre une **barre de qualité** : hook original et scotchant
-(on a envie de l'essayer en 3 s), boucle qu'on a PLAISIR à répéter, un « twist » qui le
-distingue des hits existants. Pas d'idée générique ni déjà vue. Attends le choix.
+**P1 — Idéation (seul moment de question).** Pose le **mini-quiz** en UN message
+(gameplay 3-5 + style 2-3 + dimension + difficulté + durée de session + intensité des
+pubs + méta). Chaque gameplay est évalué contre une **barre de qualité** : hook original
+et scotchant (envie de l'essayer en 3 s), boucle qu'on a PLAISIR à répéter, un « twist »
+distinctif. Pas d'idée générique ni déjà vue. Attends les choix.
 
 **P2 — SPEC.md.** Gameplay ; thème/style ; dimension justifiée ; dopamine (nombres
 précis) ; **échelle de profondeur** ; courbe des niveaux (cible/temps/vitesse/densité/
@@ -189,7 +195,8 @@ illustré, audio réel, bridge Playgama, `toLocaleString('en-US')`. Structure : 
 
 ## Rappel final
 
-Concept sacré → propose (gameplays + styles + dimension) → autonome. Excellence = hook
+Concept sacré → mini-quiz (gameplays + styles + dimension + feeling + durée + pubs + méta)
+→ autonome. Excellence = hook
 simple + profondeur réelle + dopamine + juice + mondes distincts + finition parfaite.
 Vérifie en exécutant avec PREUVES. Livre repo + Pages + ZIP. **Un jeu non publié n'est
 pas livré.**
